@@ -43,9 +43,17 @@ El proyecto incluye un reporte técnico reproducible y un tablero interactivo pa
 
 ---
 
-### Próximos proyectos
+### Atlas cartográfico interactivo de Río Negro y traza VMOS
 
-Actualmente estoy organizando otros trabajos de cartografía digital, análisis territorial y visualización interactiva desarrollados con R, incluyendo estudios sobre la provincia de Río Negro y la traza del proyecto Vaca Muerta Oil Sur (VMOS).
+Atlas territorial desarrollado con R, R Markdown, flexdashboard y Leaflet, que integra información ambiental, demográfica, productiva y de infraestructura geográfica de la provincia de Río Negro.
+
+El proyecto incluye tareas de procesamiento de información geoespacial, integración de fuentes estadísticas, elaboración de cartografía temática y análisis de relaciones espaciales entre la traza del oleoducto Vaca Muerta Oil Sur (VMOS) y diferentes componentes territoriales.
+
+**[Explorar atlas cartográfico interactivo](https://marcelohaberkorn.github.io/rio-negro-vmos-atlas/)**
+
+**[Ver código y documentación en GitHub](https://github.com/marcelohaberkorn/rio-negro-vmos-atlas)**
+
+---
 
 ## Contacto
 
