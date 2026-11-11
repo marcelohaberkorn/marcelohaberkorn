@@ -60,3 +60,5 @@ El proyecto incluye tareas de procesamiento de información geoespacial, integra
 Podés explorar mis proyectos y desarrollos en este perfil de GitHub.
 
 **[GitHub — Marcelo Haberkorn](https://github.com/marcelohaberkorn)**
+
+**[LinkedIn — Marcelo Haberkorn](https://www.linkedin.com/in/marcelohaberkorn/)**
