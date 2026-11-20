@@ -2,7 +2,7 @@
 
 ### Cartografía | Sistemas de Información Geográfica | Análisis Geoespacial
 
-Soy cartógrafo y analista GIS, especializado en el procesamiento, análisis y representación de información geográfica.
+Soy Técnico Universitario en Cartografía, Teledetección y Sistemas de Información Geográfica, graduado de la Universidad Nacional del Sur (UNS). Me desempeño como cartógrafo y analista GIS, especializado en el procesamiento, análisis y representación de información geográfica.
 
 Me interesa desarrollar soluciones que permitan transformar datos territoriales en información útil para la investigación, la planificación y la toma de decisiones.
 
